@@ -17,3 +17,13 @@ I can link directly to my  [about page](about.html).
 Ain't she great
 
 <img src="images/image.jpg" style="width:75%">
+
+```{r}
+library(tidyverse)
+
+tibble(
+  x = 1:10,
+  y =  x + 2
+)
+```
+
