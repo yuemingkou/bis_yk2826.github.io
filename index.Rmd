@@ -12,6 +12,8 @@ I like  [to look for code on the internet](https://www.google.com).
 
 I can link directly to my  [about page](about.html).
 
+I made some [plotly plots](plotly.html).
+
 ### Picture of my dog
 
 Ain't she great
